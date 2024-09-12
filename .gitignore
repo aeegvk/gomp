@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of 'go build'
+/bin/
+/out/
+/build/
+
+# Test binary, coverage, and logs
+*.test
+*.out
+*.log
+coverage.out
+
+# Dependency directories (remove the comment below if using vendoring)
+# /vendor/
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+
+# OS generated files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
